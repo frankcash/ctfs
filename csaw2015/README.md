@@ -6,7 +6,7 @@ Utilized [Wireshark](https://www.wireshark.org/). Applied the filter `http and !
 Revealed packet 60.  Upon further investigating of that packet it's a python script.  
 If you analyze the python script you see that they're randomly choosing an encryption method.  If you reverse the steps you can easily reveal the flag.
 
-#Trivia 100: Trivia 1 (Solved)
+#Trivia 10: Trivia 1 (Solved)
 
 Was a type of Rat.  
 
