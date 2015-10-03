@@ -19,5 +19,6 @@ Problem: Web site with simple input box, adds a cookie that keep track of your "
 
 Solution:
 Full path disclosure by setting the cookie value to null.
+Ran `document.cookie="PHPSESSID="` in the JavaScript console.
 
 Flag: `DCTF{3a9bad36a0fb1edcaa83b6669d667061}`
