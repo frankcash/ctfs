@@ -1,7 +1,7 @@
 # DEFCAMP Qualifiers 2015 Dump
 
 
-# Crpyto 50:
+# Crpyto 50: (Solved)
 
 Question: 11 short texts have been encrypted with the same stream cipher. No no! Figure out the 11th plaintext!
 
