@@ -17,3 +17,4 @@ Notes and tidbits from various CTFs.  Each event gets it's own `README.md` with 
 |[Burp](https://portswigger.net/burp/)| Web Application Security Flaw Analysis|
 |[Bless Hex Editor](http://home.gna.org/bless/)| Hex Editor|
 |[PNGCSum](http://schaik.com/png/pngcsum.html) | PNG Check Sum Corrector (Stego)|
+|[Waldo](https://github.com/red-team-labs/waldo/)| Sub Directory Enumeration|
