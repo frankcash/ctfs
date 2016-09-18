@@ -36,9 +36,3 @@ The php code has [seemingly interesting defense](https://www.exploit-db.com/pape
 But `assert()` will execute PHP code, and thus that is it's weak point.
 
 Flag: `flag{3vald_@ss3rt_1s_best_a$$ert}`
-
-
-# "Warmup" PWN 50: (Attempted):
-
-What I did: Ran `file warmup`: `warmup: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.24, BuildID[sha1]=ab209f3b8a3c2902e1a2ecd5bb06e258b45605a4, not stripped`.  
-Exposing a pointer that is the address of `easy`. `_gets` is taking in 0 and a pointer.
