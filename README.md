@@ -12,7 +12,7 @@ Notes and tidbits from various CTFs.  Each event gets it's own `README.md` with 
 |[CSAW 2016](https://ctftime.org/event/347)|[Write-up](https://github.com/frankcash/ctfs/blob/master/csaw2016/README.md)|
 
 
-# Tools I User
+# Tools I Use
 | Tools | Function |
 |---------------|-------------------|
 |[Wireshark](https://www.wireshark.org/)| PCAP Analysis |
