@@ -10,7 +10,7 @@ Answer: `FIT{SHELLSHOCK}`
 
 Problem: A dog breed that exists in Version 3.0 of SSL.
 
-Answer: `FIT{POODLE}``
+Answer: `FIT{POODLE}`
 
 ## Trivia3 (MISC 10):
 
